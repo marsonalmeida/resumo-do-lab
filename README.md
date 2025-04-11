@@ -7,10 +7,10 @@ Sobre o conteúdo até o momento, me foram apresentados os itens:
 - Como escolher o melhor modelo
 - Qual a importancia da ferramenta Azure
 - Os papés e resposabilidades da empresa contratada e da contratante
-- Conceitos de Escala, Segurança, Governanca, Elasticidade
+- Conceitos de Escala, Segurança, Governança, Elasticidade
 
 Sobre o Lab
 - Calculadora de custos com base na disponibilidade
 - Criação de máquinas virtuais
-- Configurações de Regições, Zonas e tipo de disponibilidade
+- Configurações de Regies, Zonas e tipo de disponibilidade
 - Configurações de desempenho e redundância
